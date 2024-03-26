@@ -1,0 +1,40 @@
+
+website map
+
+Homepage
+  Latest Announcements
+
+Library Services
+  Library Card Registration Form
+　Other help
+　
+Book Catalog
+  Search and Filters
+  Individual Book Pages
+
+About the Library
+　Contact Information
+  Opening Hours and Address 
+
+Contact and Support
+  Email Address
+
+Footer
+  Quick Links
+  Accessibility and Site Map
+
+[ Book Catalog Page ] ---> [ Select Book ] ---> [ Book Details Page ]
+        ^                          |                        |
+        |                          +---- [ Reserve Book ] <----+
+        |                                                  |
+        +-------------------- [ Confirm Reservation ] <----+
+
+
+
+
+
+1.How should users navigate between pages?
+For seamless navigation throughout the website, we've implemented several intuitive features. A uniform navigation bar sits at the pinnacle of every page, ensuring you're never more than a click away from our primary sections: Home, Catalog, Services, and Contact. For those who know exactly what they're after, a comprehensive search bar spans the entirety of the site, offering a shortcut straight to specific books or details. Lastly, we've sprinkled additional links and resources in the website's footer, serving as a secondary navigation area for those in need of more specific information or pages.
+
+2.How will it be possible to find a specific book? Think of all possible alternatives and select at least two. Justify your choices.
+To pinpoint the exact book you're after, our website offers two streamlined methods. First, a sophisticated search function allows for a detailed query！be it by title, author, or specific keywords. This method is perfect for those with a clear target in mind, enabling a swift and targeted search process. Secondly, our book catalog is equipped with an array of filters and sorting mechanisms. You can refine your search based on genre, author, or whether the book is currently available, and even sort the results by new arrivals or popularity. This approach not only facilitates a more organized browsing experience but also enhances user satisfaction by simplifying access to our extensive book collection.

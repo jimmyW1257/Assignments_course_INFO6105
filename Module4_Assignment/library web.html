@@ -1,0 +1,65 @@
+<!--
+ * @Author: uyrance uyrance@hotmal.com
+ * @Date: 2024-02-02 18:17:28
+ * @LastEditors: uyrance uyrance@hotmal.com
+ * @LastEditTime: 2024-02-16 21:52:27
+ * @FilePath: \INFO6150\HW4\library web.html
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Book Title - Vallejo Public Library</title>
+<!-- commit  test two -->
+</head>
+<body>
+    <header>
+        <h1>Vallejo Public Library</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="catalog.html">Catalog</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+            <form action="search_results.html" method="get">
+                <input type="search" name="bookSearch" placeholder="Search books...">
+                <button type="submit">Search</button>
+            </form>
+        </nav>
+    </header>
+
+    <main>
+        <section class="book-details">
+            <h2>Book Title</h2>
+            <p>Description: Brief description of the book...</p>
+            <p>Author: Author Name</p>
+            <p>Genre: Book Genre</p>
+            <p>Copies in Library: 5</p>
+            <p>Available: 3</p>
+            <button onclick="startReservationProcess()">Reserve a Copy</button>
+        </section>
+    </main>
+
+    <footer>
+        <nav>
+            <ul>
+                <li><a href="sitemap.html">Site Map</a></li>
+                <li><a href="privacy.html">Privacy Policy</a></li>
+                <li><a href="about.html">About Us</a></li>
+            </ul>
+        </nav>
+        <p>Vallejo Public Library, Vallejo, CA</p>
+        <p>Contact us at: library@email.com</p>
+    </footer>
+
+    <script>
+        function startReservationProcess() {
+
+            alert("Reservation process started.");
+        }
+    </script>
+</body>
+</html>
